@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 1. Learned some important facts about NextJS
 2. Installation and Project Setup
-3. (Explored file and folder structure) [https://nextjs.org/docs/getting-started/project-structure]
+3. [Explored file and folder structure](https://nextjs.org/docs/getting-started/project-structure)
 4. Types of components, components inside a components
 5. Components called as a function
 6. Implemented state
