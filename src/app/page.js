@@ -5,10 +5,14 @@ export default function Home() {
   const apple = () => {
     alert("apple");
   };
+  const innerComp = () => {
+    return <h1>Inner Component</h1>;
+  };
   return (
     <main className={styles.main}>
       <h1>Events</h1>
       <button onClick={apple}>click</button>
+      {innerComp()}
     </main>
   );
 }
